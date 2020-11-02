@@ -1,0 +1,53 @@
+.glry-img {
+    width: 60%;
+    margin-left: 25%;
+    margin-bottom: 10%;
+}
+
+#img-1 {
+    margin-top: 10%;
+}
+
+input {
+    margin-left: 35%;
+    margin-top: 10%;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
+
+@media (min-width: 1024px) {
+
+    .img-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10%;
+    }
+
+    .top {
+        margin-top: 10%;
+    }
+
+    input {
+        margin-left: 25%;
+        width: 50%;
+    }
+
+    .wrapper {
+        width: 80%;
+        margin: auto;
+    }
+
+    #img-1 {
+        margin-top: 0;
+    }
+
+    .glry-img {
+        width: 60%;
+    }
+}
+
+
+
+
