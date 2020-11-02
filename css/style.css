@@ -1,0 +1,96 @@
+.carousel-container {
+    border: solid 10px white;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px black;
+}
+
+
+
+header {
+    background-image: url("../img/shutterstock_1124255354.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.body-container {
+    background-color: white;
+}
+
+
+.intro-btn {
+    width: 75%;
+    height: 100px;
+    border-radius: 50%;
+    border: solid 3px;
+}
+
+hr {
+    border: solid 3px black;
+}
+
+.card-1 {
+    border: solid 5px black;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+.btn {
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+footer img {
+    color: white;
+}
+
+.icon-link:hover {
+    transform: scale(1.5);
+}
+
+[data-scroll] {
+    transition: all 3s;
+}
+
+[data-scroll="in"] {
+    transform: translateX(0);
+}
+
+[data-scroll="out"] {
+    transform: translateX(-200);
+}
+
+.modal-content {
+    height: 800px;
+}
+
+iframe {
+    height: 400px;
+}
+
+.slide-box img {
+    height: 300px;
+    width: 385px;
+    margin: 2em;
+    box-shadow: 10px 10px 5px grey;;
+}
+
+@media (max-width: 768px) {
+    .slide-box img {
+        height: 200px;
+        width: 285px;
+    }
+}
+
