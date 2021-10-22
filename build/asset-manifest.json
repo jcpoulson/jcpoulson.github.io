@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fb60dde.chunk.css",
+    "main.js": "/static/js/main.da56ddb6.chunk.js",
+    "main.js.map": "/static/js/main.da56ddb6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4c43beb6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4c43beb6.js.map",
+    "static/js/2.f4977969.chunk.js": "/static/js/2.f4977969.chunk.js",
+    "static/js/2.f4977969.chunk.js.map": "/static/js/2.f4977969.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3fb60dde.chunk.css.map": "/static/css/main.3fb60dde.chunk.css.map",
+    "static/js/2.f4977969.chunk.js.LICENSE.txt": "/static/js/2.f4977969.chunk.js.LICENSE.txt",
+    "static/js/main.da56ddb6.chunk.js.LICENSE.txt": "/static/js/main.da56ddb6.chunk.js.LICENSE.txt",
+    "static/media/bg15.jpg": "/static/media/bg15.e29dd12f.jpg",
+    "static/media/bg32.jpg": "/static/media/bg32.28d7d137.jpg",
+    "static/media/now-ui-kit.scss?v=1.5.0": "/static/media/nucleo-outline.802141dd.woff2",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.d9b58847.jpg",
+    "static/media/project8.jpg": "/static/media/project8.4e25d194.jpg",
+    "static/media/usmc-bg.jpg": "/static/media/usmc-bg.ca7248fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c43beb6.js",
+    "static/js/2.f4977969.chunk.js",
+    "static/css/main.3fb60dde.chunk.css",
+    "static/js/main.da56ddb6.chunk.js"
+  ]
+}
